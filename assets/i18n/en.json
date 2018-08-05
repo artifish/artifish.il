@@ -6,6 +6,7 @@
 		}
 	},
 	"common": {
+		"or": "Or",
 		"cancel": "Cancel",
 		"date": "Date",
 		"email": "Email",
@@ -41,7 +42,9 @@
 	"login": {
 		"email_is_required": "Email is required",
 		"invalid_credentials": "Invalid credentials",
-		"password_is_required": "Password is required"
+		"password_is_required": "Password is required",
+		"login_with_facebook": "Login with Facebook",
+		"login_with_google": "Login with Google"
 	},
 	"verify": {
 		"user_was_verified": "User was verified",
@@ -52,7 +55,7 @@
 		"home": "Home",
 		"login": "Login",
 		"logout": "Logout",
-		"collections": "Collections",
+		"collections": "My Saved Projects",
 		"user": "User"
 	},
 	"collection": {
@@ -66,18 +69,26 @@
 		"create_user_to_continue": "Create user to continue",
 		"login_with_this_info_to_load_collection": "You will be able to login with this information to load your saved work",
 		"loading_filters": "Loading filters",
-		"my_space": "My Space",
+		"my_project": "My Project (Choose name)",
 		"proceed_to_purchase": "Proceed to Purchase",
 		"you_have_selected_x_items": "You have selected {{items_count}} items",
 		"choose_a_password": "Choose a password",
 		"starting_at": "Starting at",
 		"project_board": "Project board",
-		"explore_new_art": "Explore new Art"
+		"project_board_hint": "Here you see the artworks you chose alongside the picture of your space",
+		"explore_artworks": "Explore Artworks",
+		"explore_artworks_hint": "Here you discover and choose artworks to your project",
+		"edit_name": "Edit name",
+		"upload_space_image": "Upload space image",
+		"save_collection": "Save collection",
+		"reset_project": "Reset project",
+		"filter_by": "Filter by",
+		"more_details": "More details"
 	},
 	"collections": {
-		"my_collections": "My Collections",
-		"there_are_no_saved_collections": "There are not any saved collections",
-		"add_collection": "Add Collection"
+		"my_collections": "My Saved Projects",
+		"there_are_no_saved_collections": "There are not any saved projects",
+		"add_collection": "New project"
 	},
 	"purchase": {
 		"pay_with_paypal": "Make a Payment",

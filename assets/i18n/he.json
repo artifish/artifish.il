@@ -7,6 +7,7 @@
 		}
 	},
 	"common": {
+		"or": "או",
 		"cancel": "ביטול",
 		"date": "תאריך",
 		"email": "אימייל",
@@ -42,7 +43,9 @@
 	"login": {
 		"email_is_required": "יש למלא מייל",
 		"invalid_credentials": "סיסמא שגויה",
-		"password_is_required": "יש למלא סיסמא"
+		"password_is_required": "יש למלא סיסמא",
+		"login_with_facebook": "התחבר באמצעות פייסבוק",
+		"login_with_google": "התחבר באמצעות גוגל"
 	},
 	"verify": {
 		"user_was_verified": "משתמש אומת בהצלחה",
@@ -67,7 +70,7 @@
 		"create_user_to_continue": "צור משתמש על מנת להמשיך",
 		"login_with_this_info_to_load_collection": "תוכל להתחבר עם פרטים אלו כדי לטעון את העבודה שלך",
 		"loading_filters": "טוען פילטרים",
-		"my_space": "החלל שלי",
+		"my_project": "הפרוייקט שלי (בחר שם)",
 		"proceed_to_purchase": "המשך לרכישה",
 		"you_have_selected_x_items": "בחרת {{items_count}} פריטים",
 		"choose_a_password": "בחר סיסמא",
