@@ -48,4 +48,4 @@
   /* Safari */-moz-user-select:none;
   /* Firefox */-ms-user-select:none;
   /* IE10+/Edge */user-select:none
-  /* Standard */}.tooltip-inner{min-width:100px}.rtl .introjs-tooltipbuttons{direction:rtl}
+  /* Standard */}.tooltip-inner{min-width:100px}.rtl.introjs-tooltip,.rtl .introjs-tooltipbuttons{direction:rtl}
