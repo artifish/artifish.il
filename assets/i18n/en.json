@@ -106,7 +106,11 @@
 		"upload_a_photo_of_your_room": "Upload a photo of your room",
 		"choose_from_collection": "Choose from collection",
 		"workspace_collection_library": "Workspace Collection Library",
-		"workspace_collection_library_help_text": "Choose a room or colored wall to simulate the room you are working on"
+		"workspace_collection_library_help_text": "Choose a room or colored wall to simulate the room you are working on",
+		"got_confused": "You got confused!",
+		"drag_image_warning_text": "Click on the image to select it, then click on ",
+		"drag_image_warning_text_after_icon": " in the toolbar to drag it",
+		"you_must_set_workspace_picture_first": "You must set a workspace picture first"
 	},
 	"collections": {
 		"my_collections": "My Saved Projects",
