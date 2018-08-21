@@ -76,6 +76,10 @@ MIT
 MIT
 MIT
 
+ng2-nouislider@1.7.12
+MIT
+MIT
+
 @angular/core@5.2.11
 MIT
 MIT
