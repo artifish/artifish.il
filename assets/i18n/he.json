@@ -9,7 +9,11 @@
 	"beta_login": {
 		"incorrect_password": "הסיסמא שגויה",
 		"enter_beta": "היכנס לבטא",
-		"enter_beta_password": "הכנס סיסמאת כניסה לבטא"
+		"enter_beta_password": "הכנס סיסמאת כניסה לבטא",
+		"get_password": "קבל סיסמא",
+		"check_your_email_message": "תודה! בדוק את תיבת המייל שלך. הסיסמא נשלחה אליך",
+		"get_beta_access": "קבל גישה לבטא",
+		"type_your_email_message": "הכנס את האימייל בשביל לקבל סיסמא לבטא בחינם"
 	},
 	"common": {
 		"or": "או",
@@ -35,7 +39,9 @@
 		"a_valid_email_is_required": "יש למלא מייל חוקי",
 		"phone_number_is_required": "יש למלא מספר טלפון",
 		"start": "התחל",
-		"size": "גודל"
+		"size": "גודל",
+		"price": "מחיר",
+		"all": "הכל"
 	},
 	"contact_us": {
 		"get_in_touch": "צור קשר",
@@ -116,7 +122,6 @@
 		"filter_by": "סנן לפי",
 		"more_details": "פרטים נוספים",
 		"type": "סוג",
-		"all": "הכל",
 		"filter_by_artwork_type": "סנן לפי סוג אמנות",
 		"no_results": "אין תוצאות",
 		"try_searching_again": "נסה לחפש שוב או להסיר חלק מהפילטרים",
@@ -146,9 +151,7 @@
 		"address_is_required": "יש למלא כתובת",
 		"zip_code_is_required": "יש למלא מיקוד",
 		"material": "סוג חומר",
-		"size": "גודל",
 		"total_amount": "עלות כוללת",
-		"price": "מחיר",
 		"failed_to_remove_item": "הסרת הפריט נכשלה"
 	},
 	"paypal_callback": {

@@ -8,7 +8,11 @@
 	"beta_login": {
 		"incorrect_password": "Incorrect password",
 		"enter_beta": "Enter Beta",
-		"enter_beta_password": "Enter beta password"
+		"enter_beta_password": "Enter beta password",
+		"get_password": "Get Password",
+		"check_your_email_message": "Thanks! Check your email. You should see an email with the password for the beta",
+		"get_beta_access": "Get Beta Access",
+		"type_your_email_message": "Type your email to get a password for the beta for free"
 	},
 	"common": {
 		"or": "Or",
@@ -34,7 +38,9 @@
 		"a_valid_email_is_required": "A valid email is required",
 		"phone_number_is_required": "Phone Number is required",
 		"start": "Start",
-		"size": "Size"
+		"size": "Size",
+		"price": "Price",
+		"all": "All"
 	},
 	"contact_us": {
 		"get_in_touch": "Get In Touch",
@@ -115,7 +121,6 @@
 		"filter_by": "Filter by",
 		"more_details": "More details",
 		"type": "Type",
-		"all": "All",
 		"filter_by_artwork_type": "Filter by artwork type",
 		"no_results": "No results",
 		"try_searching_again": "Try searching again or removing filters",
@@ -145,9 +150,7 @@
 		"address_is_required": "Address is required",
 		"zip_code_is_required": "Zip Code is required",
 		"material": "Material",
-		"size": "Size",
 		"total_amount": "Total amount",
-		"price": "Price",
 		"failed_to_remove_item": "Failed to remove item"
 	},
 	"paypal_callback": {
